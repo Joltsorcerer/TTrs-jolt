@@ -1,0 +1,8 @@
+This is a script dedicated to ttrs for all the children and people that are like how i used to be as a child i will be creating a script thats gives you the power to enable a bot nthat will solve all questions for you
+
+
+
+
+
+
+Violentmonkey ot Tampermonkey extension required
